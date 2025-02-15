@@ -1,3 +1,3 @@
 # Current SubZero Download
 **Note:** Please ensure the link stays on the 3rd line.
-http://webfiles.pro/files/SubZero.zip
+http://webfiles.pro/file/SubZero.zip
